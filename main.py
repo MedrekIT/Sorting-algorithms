@@ -1,6 +1,6 @@
 import pygame as pg
-import SortingAnimation as SAni
-import SortingAlgorithms as SAlg
+from packages import SortingAnimation as SAni
+from packages import SortingAlgorithms as SAlg
 
 pg.init()
 
